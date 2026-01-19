@@ -14,4 +14,5 @@ into actionable intelligence.
 We share tools, research, and examples that support modern data teams.
 
 🌐 https://inferistics.com  
-🐦 https://x.com/inferistics_inc
+🐦 https://x.com/inferistics_inc  
+💼 https://linkedin.com/company/inferistics
